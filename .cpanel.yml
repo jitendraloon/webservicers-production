@@ -1,0 +1,7 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/$USER/dev.webservicers.com/
+    - /bin/cp -R * $DEPLOYPATH 2>/dev/null || true
+    - /bin/cp -R .next $DEPLOYPATH 2>/dev/null || true
+    - /bin/cp .env.example $DEPLOYPATH 2>/dev/null || true

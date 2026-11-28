@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/dashboard/seo/workspace/agent-setup",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/agent/layout,_N_T_/(portal)/dashboard/seo/agent/page,_N_T_/dashboard/seo/agent"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/c24868347f7870513bb1fc23665212ba3592a1c4e9971e6a8878699d2dfc3c17/$/dashboard/seo/agent",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/agent/page"
+    },
+    "isFallback": false
+  }
+}

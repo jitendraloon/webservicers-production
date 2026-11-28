@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/support/layout,_N_T_/(admin)/admin/support/bulk-notifications/layout,_N_T_/(admin)/admin/support/bulk-notifications/page,_N_T_/admin/support/bulk-notifications"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/8d89f5afdfe41a1da49f1c29c85fabe215d58c2eb4dbdc3cbdebb7dda7663cab/$/admin/support/bulk-notifications",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/support/bulk-notifications/page"
+    },
+    "isFallback": false
+  }
+}

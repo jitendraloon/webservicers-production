@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/affiliate/layout,_N_T_/(portal)/dashboard/affiliate/page,_N_T_/dashboard/affiliate"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/01c03970947bb2def8ec24e81159237adcb4c38230c39bf10c77c2606281743b/$/dashboard/affiliate",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/affiliate/page"
+    },
+    "isFallback": false
+  }
+}

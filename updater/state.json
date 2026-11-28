@@ -1,0 +1,17 @@
+{
+  "jobId": "",
+  "targetVersion": "",
+  "previousVersion": "1.0.8",
+  "status": "CANCELED",
+  "progressPercent": 0,
+  "currentStep": "Update process canceled by administrator",
+  "heartbeatAt": "2026-11-28T04:42:56.110Z",
+  "startedAt": "2026-11-28T04:42:56.098Z",
+  "logs": [
+    {
+      "timestamp": "2026-11-28T04:42:56.098Z",
+      "level": "warn",
+      "message": "Update execution canceled by administrator. Engine unlocked."
+    }
+  ]
+}

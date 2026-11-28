@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/seo/layout,_N_T_/(admin)/admin/seo/limits/layout,_N_T_/(admin)/admin/seo/limits/page,_N_T_/admin/seo/limits"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/14306710a58cbfbe3d8d7f43ddce3820717a9114b524ff343bf30deeb1f9e0f2/$/admin/seo/limits",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/seo/limits/page"
+    },
+    "isFallback": false
+  }
+}

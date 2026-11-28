@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/customers/layout,_N_T_/(admin)/admin/customers/registered/layout,_N_T_/(admin)/admin/customers/registered/page,_N_T_/admin/customers/registered"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/11b9498fbd3a452ce2cb74e415ba6dc08a35760caf2a6666eee5b37fae901a17/$/admin/customers/registered",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/customers/registered/page"
+    },
+    "isFallback": false
+  }
+}

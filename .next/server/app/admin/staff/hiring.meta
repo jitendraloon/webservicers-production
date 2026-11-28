@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/staff/layout,_N_T_/(admin)/admin/staff/hiring/layout,_N_T_/(admin)/admin/staff/hiring/page,_N_T_/admin/staff/hiring"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/f4ab3e1e9442adc9b95245fc00e75bb76f96a7b763f162803aebf734d0c76d8f/$/admin/staff/hiring",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/staff/hiring/page"
+    },
+    "isFallback": false
+  }
+}

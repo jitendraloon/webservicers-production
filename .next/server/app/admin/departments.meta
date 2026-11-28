@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/staff",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/departments/layout,_N_T_/(admin)/admin/departments/page,_N_T_/admin/departments"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/5a957ae24df498970c91ae76905dea999ae979848e89e8c712755724c11e2c15/$/admin/departments",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/departments/page"
+    },
+    "isFallback": false
+  }
+}

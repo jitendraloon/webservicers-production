@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/website-design/layout,_N_T_/(marketing)/website-design/page,_N_T_/website-design"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/6f9d1aa8b87100fe1aa64862abdbcfa6ad7b2cd7a2ce322134ff969edaa374ff/$/website-design",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/website-design/page"
+    },
+    "isFallback": false
+  }
+}

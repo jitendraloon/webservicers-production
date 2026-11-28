@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/integrations",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/api-keys/layout,_N_T_/(admin)/admin/api-keys/page,_N_T_/admin/api-keys"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/31a61ac98f46a3c3d695ae9a0ea1f7a7969487b2b846640009fa411ea7367b6e/$/admin/api-keys",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/api-keys/page"
+    },
+    "isFallback": false
+  }
+}

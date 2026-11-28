@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/products/layout,_N_T_/(admin)/admin/products/requirements/layout,_N_T_/(admin)/admin/products/requirements/page,_N_T_/admin/products/requirements"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/c0a16460727fa35b001d90e5af5776eb91c982d9d7c1d05498080241d2c46b7a/$/admin/products/requirements",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/products/requirements/page"
+    },
+    "isFallback": false
+  }
+}

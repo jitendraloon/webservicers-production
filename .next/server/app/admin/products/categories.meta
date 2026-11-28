@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/products/layout,_N_T_/(admin)/admin/products/categories/layout,_N_T_/(admin)/admin/products/categories/page,_N_T_/admin/products/categories"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/04c97a82664e61bf2b02785b3ee01a9b6f98ea908fdf837385f0f345b179dace/$/admin/products/categories",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/products/categories/page"
+    },
+    "isFallback": false
+  }
+}

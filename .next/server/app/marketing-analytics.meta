@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/marketing-analytics/layout,_N_T_/(marketing)/marketing-analytics/page,_N_T_/marketing-analytics"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/fa8f1eb3a2b81272de962253dee9cea8982cc0e8a452e5eb78b7a265b7d01b49/$/marketing-analytics",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/marketing-analytics/page"
+    },
+    "isFallback": false
+  }
+}

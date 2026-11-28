@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/customers/registered",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/customers/layout,_N_T_/(admin)/admin/customers/users/layout,_N_T_/(admin)/admin/customers/users/page,_N_T_/admin/customers/users"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/8e4f91674e1eba854e286e24fbb1180e3485e23236eaa62538ae2f53e017c99f/$/admin/customers/users",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/customers/users/page"
+    },
+    "isFallback": false
+  }
+}

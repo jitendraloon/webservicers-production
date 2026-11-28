@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/dashboard/support",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/tickets/layout,_N_T_/(portal)/dashboard/tickets/page,_N_T_/dashboard/tickets"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/6c3481e1297f9a1ce4d49eeea99ae68e97a146031e62b90ae79c6101da23098e/$/dashboard/tickets",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/tickets/page"
+    },
+    "isFallback": false
+  }
+}

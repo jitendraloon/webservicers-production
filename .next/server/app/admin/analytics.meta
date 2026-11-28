@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/reports",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/analytics/layout,_N_T_/(admin)/admin/analytics/page,_N_T_/admin/analytics"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/2394aedb77094ec57f80a0d093103325d2c7b8d297bb8bc27ba72faef316fe77/$/admin/analytics",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/analytics/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/support/replies",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/support/layout,_N_T_/(admin)/admin/support/canned/layout,_N_T_/(admin)/admin/support/canned/page,_N_T_/admin/support/canned"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/2fb70600cdf8107296aa5d5f0485eb698ea577ee2ef4b503b4f161183842a63b/$/admin/support/canned",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/support/canned/page"
+    },
+    "isFallback": false
+  }
+}

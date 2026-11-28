@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/customers/layout,_N_T_/(admin)/admin/customers/kyc/layout,_N_T_/(admin)/admin/customers/kyc/page,_N_T_/admin/customers/kyc"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/91d333c9e10f4e54df5c5ba28018f415da3bfda194718fd2e5e4f0b6131db092/$/admin/customers/kyc",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/customers/kyc/page"
+    },
+    "isFallback": false
+  }
+}

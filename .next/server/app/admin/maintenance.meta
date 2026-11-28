@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/maintenance/backups",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/maintenance/layout,_N_T_/(admin)/admin/maintenance/page,_N_T_/admin/maintenance"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/6fa399f7922a46ef658c2a05dc95b3aa7396c209c73c8a9c3eea11c71752fda8/$/admin/maintenance",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/maintenance/page"
+    },
+    "isFallback": false
+  }
+}

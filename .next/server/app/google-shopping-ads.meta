@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/google-shopping-ads/layout,_N_T_/(marketing)/google-shopping-ads/page,_N_T_/google-shopping-ads"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/41102190a7ce5c6fc0c03b52893494c4d5336fb14d5e945a8a352af249ef020c/$/google-shopping-ads",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/google-shopping-ads/page"
+    },
+    "isFallback": false
+  }
+}

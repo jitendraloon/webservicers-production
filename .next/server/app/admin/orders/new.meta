@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/orders/create",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/orders/layout,_N_T_/(admin)/admin/orders/new/layout,_N_T_/(admin)/admin/orders/new/page,_N_T_/admin/orders/new"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/e4835f1249e67e2f70cf6bfa4392de27ff31cae2f831c45cf57a11a742b2b96a/$/admin/orders/new",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/orders/new/page"
+    },
+    "isFallback": false
+  }
+}

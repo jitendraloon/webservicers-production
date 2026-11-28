@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/automation",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/cron/layout,_N_T_/(admin)/admin/cron/page,_N_T_/admin/cron"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/025b59b7caceb2d3c8387f9bee887348cda1d2ccf211605546e8a852e1a89a7e/$/admin/cron",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/cron/page"
+    },
+    "isFallback": false
+  }
+}

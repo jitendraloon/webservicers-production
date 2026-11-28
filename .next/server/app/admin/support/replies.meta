@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/support/layout,_N_T_/(admin)/admin/support/replies/layout,_N_T_/(admin)/admin/support/replies/page,_N_T_/admin/support/replies"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/c3c77ceb31cf964e045d099697696ff5a5c67613ac7af89ef5bd6f9d3dc50ae8/$/admin/support/replies",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/support/replies/page"
+    },
+    "isFallback": false
+  }
+}

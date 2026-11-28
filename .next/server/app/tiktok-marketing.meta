@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/tiktok-marketing/layout,_N_T_/(marketing)/tiktok-marketing/page,_N_T_/tiktok-marketing"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/4675d28cda5cffa9bc844db421cef4c273f205d593f260dfdec09d778e8290c6/$/tiktok-marketing",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/tiktok-marketing/page"
+    },
+    "isFallback": false
+  }
+}

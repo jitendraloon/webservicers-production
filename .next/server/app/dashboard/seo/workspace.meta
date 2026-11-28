@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/dashboard/seo/workspace/dashboard",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/workspace/layout,_N_T_/(portal)/dashboard/seo/workspace/page,_N_T_/dashboard/seo/workspace"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/674d85abb41176ea6e048a17c0d486fdf13df4b4e5d3b06286ca7e04d844f1fd/$/dashboard/seo/workspace",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/workspace/page"
+    },
+    "isFallback": false
+  }
+}

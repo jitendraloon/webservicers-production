@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/smm/layout,_N_T_/(admin)/admin/smm/categories/layout,_N_T_/(admin)/admin/smm/categories/page,_N_T_/admin/smm/categories"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/9575d100788ab6ce1a04877cf2f4e454a0f77a102bda36a36ff7a0f485f753f0/$/admin/smm/categories",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/smm/categories/page"
+    },
+    "isFallback": false
+  }
+}

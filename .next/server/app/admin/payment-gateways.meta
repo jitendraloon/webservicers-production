@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/checkout",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/payment-gateways/layout,_N_T_/(admin)/admin/payment-gateways/page,_N_T_/admin/payment-gateways"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/1714c524577184c2cbc0cf14672e516340bf0666a4882b4e164167ca27302659/$/admin/payment-gateways",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/payment-gateways/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/logs",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/audit-logs/layout,_N_T_/(admin)/admin/audit-logs/page,_N_T_/admin/audit-logs"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/68b8c5ba076250dda58b74232fbeb6b7723a5a1aae806637f2b40b35f76c14eb/$/admin/audit-logs",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/audit-logs/page"
+    },
+    "isFallback": false
+  }
+}

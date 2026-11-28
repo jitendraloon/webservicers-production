@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/customers/layout,_N_T_/(admin)/admin/customers/gdpr/layout,_N_T_/(admin)/admin/customers/gdpr/page,_N_T_/admin/customers/gdpr"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/4686095fd6d56554986b698acc9e1588b1b7dc597af20aea037080f99930650f/$/admin/customers/gdpr",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/customers/gdpr/page"
+    },
+    "isFallback": false
+  }
+}

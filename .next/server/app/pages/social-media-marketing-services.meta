@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/pages/layout,_N_T_/(marketing)/pages/social-media-marketing-services/layout,_N_T_/(marketing)/pages/social-media-marketing-services/page,_N_T_/pages/social-media-marketing-services"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/11d034e5c2055cbe1bf4700ca64c90f807d4c4086b77e95532cefd0ca9f8668f/$/pages/social-media-marketing-services",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/pages/social-media-marketing-services/page"
+    },
+    "isFallback": false
+  }
+}

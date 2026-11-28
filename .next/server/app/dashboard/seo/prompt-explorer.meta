@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/dashboard/seo/workspace/prompt-explorer",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/prompt-explorer/layout,_N_T_/(portal)/dashboard/seo/prompt-explorer/page,_N_T_/dashboard/seo/prompt-explorer"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/fac72d365fec300525defa4861d4efb4c1d3af2be7b724a6a238743c0def8c71/$/dashboard/seo/prompt-explorer",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/prompt-explorer/page"
+    },
+    "isFallback": false
+  }
+}

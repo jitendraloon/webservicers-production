@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/automation/layout,_N_T_/(admin)/admin/automation/page,_N_T_/admin/automation"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/eb18250fc053c339ce93c9293c91d95c87739ce1b6baff19ab6268a2b243a900/$/admin/automation",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/automation/page"
+    },
+    "isFallback": false
+  }
+}

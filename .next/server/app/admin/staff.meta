@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/staff/layout,_N_T_/(admin)/admin/staff/page,_N_T_/admin/staff"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/702f48f0988343e8a7d4e8ab729bd71bb249f6930724d9b90c4bd2e55164a8df/$/admin/staff",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/staff/page"
+    },
+    "isFallback": false
+  }
+}

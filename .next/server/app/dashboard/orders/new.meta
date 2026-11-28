@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/dashboard/plans",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/orders/layout,_N_T_/(portal)/dashboard/orders/new/layout,_N_T_/(portal)/dashboard/orders/new/page,_N_T_/dashboard/orders/new"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/c806c9946c7e952f4d6dd13701d470dea66ff29c84f044daa7b0c03319e99072/$/dashboard/orders/new",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/orders/new/page"
+    },
+    "isFallback": false
+  }
+}

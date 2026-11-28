@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/automation",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/automations/layout,_N_T_/(admin)/admin/automations/page,_N_T_/admin/automations"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/83144cd1d6617e43e1951518d1e0cd9ea1aefa34bb740621a7a48f00dd6d3e6d/$/admin/automations",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/automations/page"
+    },
+    "isFallback": false
+  }
+}

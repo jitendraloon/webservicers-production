@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/inbox/layout,_N_T_/(admin)/admin/inbox/page,_N_T_/admin/inbox"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/d608b47ddc21017405a02181a2fd35a869bb1fe1089b3ba6bfda61563dac9aa4/$/admin/inbox",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/inbox/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/settings/layout,_N_T_/(admin)/admin/settings/compliance/layout,_N_T_/(admin)/admin/settings/compliance/page,_N_T_/admin/settings/compliance"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/a71df2e5de34ee010e56a03a8f19f9fa8c96511c5700ceb39481c5a546df2c1e/$/admin/settings/compliance",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/settings/compliance/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/add-funds/layout,_N_T_/(portal)/dashboard/add-funds/page,_N_T_/dashboard/add-funds"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/4567eb9df940e14c0461f715ce2ce384f26ad4989ac632a03deeb7dfe5606223/$/dashboard/add-funds",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/add-funds/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/smm/orders",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/smm/layout,_N_T_/(admin)/admin/smm/page,_N_T_/admin/smm"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/9aa55a83755ea75890017beddcbcba372aef64dc8de47b54c4c600be31cd47a7/$/admin/smm",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/smm/page"
+    },
+    "isFallback": false
+  }
+}

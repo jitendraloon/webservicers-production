@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/dashboard/seo/workspace/prompt-tracking",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/prompt-tracking/layout,_N_T_/(portal)/dashboard/seo/prompt-tracking/page,_N_T_/dashboard/seo/prompt-tracking"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/42e567c36b6caa40bb92580cd371304d1fa828954228b5ca2ba3117dd1dcc312/$/dashboard/seo/prompt-tracking",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/prompt-tracking/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/checkout/layout,_N_T_/(admin)/admin/checkout/page,_N_T_/admin/checkout"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/d38b4eff35f71aef229d52b362f25f79dd6fb32a2d0cd452acad9f52597d0b77/$/admin/checkout",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/checkout/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/maintenance/updates",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/updates/layout,_N_T_/(admin)/admin/updates/page,_N_T_/admin/updates"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/59b07ad6773ad09336c930d7da5cefb2bab5cdddccf3e3f0ad14cc7f188c44f9/$/admin/updates",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/updates/page"
+    },
+    "isFallback": false
+  }
+}

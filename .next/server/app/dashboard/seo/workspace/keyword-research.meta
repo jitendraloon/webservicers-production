@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/workspace/layout,_N_T_/(portal)/dashboard/seo/workspace/keyword-research/layout,_N_T_/(portal)/dashboard/seo/workspace/keyword-research/page,_N_T_/dashboard/seo/workspace/keyword-research"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/a4d24ea6ad1bcf251b85d5fecf452a09a87269e57d6139e4ac8fdf6038bfa6f7/$/dashboard/seo/workspace/keyword-research",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/workspace/keyword-research/page"
+    },
+    "isFallback": false
+  }
+}

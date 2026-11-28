@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/orders/layout,_N_T_/(admin)/admin/orders/abandoned-checkouts/layout,_N_T_/(admin)/admin/orders/abandoned-checkouts/page,_N_T_/admin/orders/abandoned-checkouts"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/8ee2d7f2591463712c3afbe7141fa8e3a2ecd0bed25b8bd4b1df08d3f5c195c4/$/admin/orders/abandoned-checkouts",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/orders/abandoned-checkouts/page"
+    },
+    "isFallback": false
+  }
+}

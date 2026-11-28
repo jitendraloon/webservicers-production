@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/products/addons",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/addons/layout,_N_T_/(admin)/admin/addons/page,_N_T_/admin/addons"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/6a43c33c898e6d551ded34fa81427ff07d5a127745b6d57f5d78b2cc77280ba1/$/admin/addons",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/addons/page"
+    },
+    "isFallback": false
+  }
+}

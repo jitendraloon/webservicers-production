@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/workspace/layout,_N_T_/(portal)/dashboard/seo/workspace/prompt-explorer/layout,_N_T_/(portal)/dashboard/seo/workspace/prompt-explorer/page,_N_T_/dashboard/seo/workspace/prompt-explorer"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/50b43a0c7f13c549172971d1a624b4483f32dfa7285119264bf5e65f9745823d/$/dashboard/seo/workspace/prompt-explorer",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/workspace/prompt-explorer/page"
+    },
+    "isFallback": false
+  }
+}

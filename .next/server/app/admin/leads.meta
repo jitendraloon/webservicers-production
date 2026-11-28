@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/customers",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/leads/layout,_N_T_/(admin)/admin/leads/page,_N_T_/admin/leads"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/091aa464844b83d7f5480fd3b1849e04153122053e3d75ca161cc152c3c0fe63/$/admin/leads",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/leads/page"
+    },
+    "isFallback": false
+  }
+}

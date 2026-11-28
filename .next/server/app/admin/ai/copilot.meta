@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/ai/layout,_N_T_/(admin)/admin/ai/copilot/layout,_N_T_/(admin)/admin/ai/copilot/page,_N_T_/admin/ai/copilot"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/f4aaa95346675b22e7afc11f9e07cea87d1364870120c9eac0fbdcbbca3d1df1/$/admin/ai/copilot",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/ai/copilot/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/services/layout,_N_T_/(admin)/admin/services/transfers/layout,_N_T_/(admin)/admin/services/transfers/page,_N_T_/admin/services/transfers"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/9905010dcc72f99ced9c24b8fb30fb306c928c432663f7bec7b2dc3e3e74440b/$/admin/services/transfers",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/services/transfers/page"
+    },
+    "isFallback": false
+  }
+}

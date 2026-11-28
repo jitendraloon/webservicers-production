@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/workspace/layout,_N_T_/(portal)/dashboard/seo/workspace/prompt-research/layout,_N_T_/(portal)/dashboard/seo/workspace/prompt-research/page,_N_T_/dashboard/seo/workspace/prompt-research"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/fa0a4f5f75e07d94f917312091cbb9ddb2897586c5568d7c510828322165ac19/$/dashboard/seo/workspace/prompt-research",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/workspace/prompt-research/page"
+    },
+    "isFallback": false
+  }
+}

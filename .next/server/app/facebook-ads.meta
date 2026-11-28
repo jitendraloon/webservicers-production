@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/facebook-ads/layout,_N_T_/(marketing)/facebook-ads/page,_N_T_/facebook-ads"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/745d939c4fd0b4ae2b021d4e19d10c0013777ae6d99cf1b6759994b6c74c59db/$/facebook-ads",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/facebook-ads/page"
+    },
+    "isFallback": false
+  }
+}

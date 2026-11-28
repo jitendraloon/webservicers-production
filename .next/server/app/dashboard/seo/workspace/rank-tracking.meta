@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/workspace/layout,_N_T_/(portal)/dashboard/seo/workspace/rank-tracking/layout,_N_T_/(portal)/dashboard/seo/workspace/rank-tracking/page,_N_T_/dashboard/seo/workspace/rank-tracking"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/e76544be8b3b5791d1e4914c25b1dc2058f8014b31000734d3b37185cbc22bb3/$/dashboard/seo/workspace/rank-tracking",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/workspace/rank-tracking/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/billing/invoices",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/invoices/layout,_N_T_/(admin)/admin/invoices/page,_N_T_/admin/invoices"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/7c61c677ff4cf481b087d7af047fa39642d54d58c15218256a2e9076ea83ab0f/$/admin/invoices",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/invoices/page"
+    },
+    "isFallback": false
+  }
+}

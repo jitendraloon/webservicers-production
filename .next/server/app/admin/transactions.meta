@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/payments/transactions",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/transactions/layout,_N_T_/(admin)/admin/transactions/page,_N_T_/admin/transactions"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/0d875d64eeeb0408afa9f4b1f8f563707478fa1ac9de73642a37a01bbee8c24e/$/admin/transactions",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/transactions/page"
+    },
+    "isFallback": false
+  }
+}

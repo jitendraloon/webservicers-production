@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/install/layout,_N_T_/(marketing)/install/page,_N_T_/install"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/7aa67ef2b471c2c0eab7c7edcde8bf1761ee3b4755d1aef6409fdf4980db955c/$/install",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/install/page"
+    },
+    "isFallback": false
+  }
+}

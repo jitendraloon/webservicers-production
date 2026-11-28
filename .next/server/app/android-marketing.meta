@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/android-marketing/layout,_N_T_/(marketing)/android-marketing/page,_N_T_/android-marketing"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/48ab88b5b0369e92027d8663fec923de1a16400da5496b43b2c15569bd9114b2/$/android-marketing",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/android-marketing/page"
+    },
+    "isFallback": false
+  }
+}

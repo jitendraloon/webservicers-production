@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/workspace/layout,_N_T_/(portal)/dashboard/seo/workspace/gsc-insights/layout,_N_T_/(portal)/dashboard/seo/workspace/gsc-insights/page,_N_T_/dashboard/seo/workspace/gsc-insights"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/639e551b336de1070edadc69dc49ae63f2a313948b9cf079c4db8a45ad03f9be/$/dashboard/seo/workspace/gsc-insights",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/workspace/gsc-insights/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/staff/roles",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/roles/layout,_N_T_/(admin)/admin/roles/page,_N_T_/admin/roles"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/de1b54c6f863b6da5bf77cffe6e4abb54c003236ad237701bf1d5def20020390/$/admin/roles",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/roles/page"
+    },
+    "isFallback": false
+  }
+}

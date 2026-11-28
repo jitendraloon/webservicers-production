@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/blog/layout,_N_T_/(marketing)/blog/[slug]/layout,_N_T_/(marketing)/blog/[slug]/page,_N_T_/blog/unifying-seo-and-paid-media-budget"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/8e097e9ca315d16d8240ca3993798d5c0436127bc4eab4f427e8055834200862/$/blog/unifying-seo-and-paid-media-budget",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/blog/[slug]/page"
+    },
+    "isFallback": false
+  }
+}

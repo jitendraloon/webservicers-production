@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/support/tickets",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/tickets/layout,_N_T_/(admin)/admin/tickets/page,_N_T_/admin/tickets"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/1fb038e852e8e419fe804d297bc0a9721a5e7b29c59d230abea57a67b09ca526/$/admin/tickets",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/tickets/page"
+    },
+    "isFallback": false
+  }
+}

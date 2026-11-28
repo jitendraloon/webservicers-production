@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/customers/layout,_N_T_/(admin)/admin/customers/leads/layout,_N_T_/(admin)/admin/customers/leads/page,_N_T_/admin/customers/leads"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/bbefa9a4207124798be1cdfa5791a7488c78a8e597611e141241c4b65c6c502d/$/admin/customers/leads",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/customers/leads/page"
+    },
+    "isFallback": false
+  }
+}

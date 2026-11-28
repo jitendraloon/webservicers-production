@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/services/layout,_N_T_/(admin)/admin/services/updowngrades/layout,_N_T_/(admin)/admin/services/updowngrades/page,_N_T_/admin/services/updowngrades"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/0463fc1225065677adb587cf9367b286e06ad4edd6ab2d37c7f726ac86acb7ed/$/admin/services/updowngrades",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/services/updowngrades/page"
+    },
+    "isFallback": false
+  }
+}

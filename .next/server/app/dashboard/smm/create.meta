@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/dashboard/smm/new-order",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/smm/layout,_N_T_/(portal)/dashboard/smm/create/layout,_N_T_/(portal)/dashboard/smm/create/page,_N_T_/dashboard/smm/create"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/fa849c8292168a8c130920c6582c4186ca6553e98e02f517d9c80df3c7b94ffa/$/dashboard/smm/create",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/smm/create/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/coupons",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/discounts/layout,_N_T_/(admin)/admin/discounts/page,_N_T_/admin/discounts"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/83347cfcba4394d763da649312510f151811d6a0e5c1a795086ae7327f03091a/$/admin/discounts",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/discounts/page"
+    },
+    "isFallback": false
+  }
+}

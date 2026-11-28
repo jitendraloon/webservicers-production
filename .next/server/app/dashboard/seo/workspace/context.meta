@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/workspace/layout,_N_T_/(portal)/dashboard/seo/workspace/context/layout,_N_T_/(portal)/dashboard/seo/workspace/context/page,_N_T_/dashboard/seo/workspace/context"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/10408631e52823809d2c3c9a8d85e15ee33726e6f738190fd81c16b26ea50e44/$/dashboard/seo/workspace/context",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/workspace/context/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/coupons/layout,_N_T_/(admin)/admin/coupons/page,_N_T_/admin/coupons"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/d8312048dea668c965cc92e423eafee428b7198f06062be79e61d96abcff7039/$/admin/coupons",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/coupons/page"
+    },
+    "isFallback": false
+  }
+}

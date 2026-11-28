@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/blog/layout,_N_T_/(marketing)/blog/page,_N_T_/blog"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/941cdf5b9a9b84dc2afa56f69de25db601834fbd6bfbfb8cd3e1f3a4524cf68d/$/blog",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/blog/page"
+    },
+    "isFallback": false
+  }
+}

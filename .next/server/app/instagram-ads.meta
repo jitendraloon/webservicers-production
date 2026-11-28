@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/instagram-ads/layout,_N_T_/(marketing)/instagram-ads/page,_N_T_/instagram-ads"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/1bb46ac4d3f45047099ac8668c0d5ccdf4c17df7b6a30bd8b06a687f3aaa1bf5/$/instagram-ads",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/instagram-ads/page"
+    },
+    "isFallback": false
+  }
+}

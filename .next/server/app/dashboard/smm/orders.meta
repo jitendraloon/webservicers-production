@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/smm/layout,_N_T_/(portal)/dashboard/smm/orders/layout,_N_T_/(portal)/dashboard/smm/orders/page,_N_T_/dashboard/smm/orders"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/584d50a41b01f760b6d8096475dd338bf6ff0fe5191adf743be667d3e67706df/$/dashboard/smm/orders",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/smm/orders/page"
+    },
+    "isFallback": false
+  }
+}

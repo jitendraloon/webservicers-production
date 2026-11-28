@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/smm/layout,_N_T_/(portal)/dashboard/smm/services/layout,_N_T_/(portal)/dashboard/smm/services/page,_N_T_/dashboard/smm/services"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/613ce494b49b20a192e8980a4053e574169cdc54584fbd5bd0ec3f6458cc7491/$/dashboard/smm/services",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/smm/services/page"
+    },
+    "isFallback": false
+  }
+}

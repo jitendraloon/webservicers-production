@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/briefs/layout,_N_T_/(portal)/dashboard/seo/briefs/page,_N_T_/dashboard/seo/briefs"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/bf81dd6a8d401aef5276bdf93eb45ad450a7662feb437010839f3fdc455cf634/$/dashboard/seo/briefs",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/briefs/page"
+    },
+    "isFallback": false
+  }
+}

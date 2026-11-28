@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/seo/layout,_N_T_/(marketing)/seo/page,_N_T_/seo"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/b820f21b2f35ed05793f805fe9bebf7f53aa333e12b9a71a16649e68e4cbcdc4/$/seo",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/seo/page"
+    },
+    "isFallback": false
+  }
+}

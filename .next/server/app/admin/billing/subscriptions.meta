@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/billing/layout,_N_T_/(admin)/admin/billing/subscriptions/layout,_N_T_/(admin)/admin/billing/subscriptions/page,_N_T_/admin/billing/subscriptions"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/92755349e9ff5eedec3203e396712073fc6076c486773cdcf9ea38b98b52edfb/$/admin/billing/subscriptions",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/billing/subscriptions/page"
+    },
+    "isFallback": false
+  }
+}

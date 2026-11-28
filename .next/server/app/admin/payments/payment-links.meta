@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/payments/layout,_N_T_/(admin)/admin/payments/payment-links/layout,_N_T_/(admin)/admin/payments/payment-links/page,_N_T_/admin/payments/payment-links"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/b844bd369fd1e6857d11c65d5e869a0518f2472d259dc441ce0f0fc5a7b9208f/$/admin/payments/payment-links",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/payments/payment-links/page"
+    },
+    "isFallback": false
+  }
+}

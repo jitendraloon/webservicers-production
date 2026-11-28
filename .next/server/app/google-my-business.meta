@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/google-my-business/layout,_N_T_/(marketing)/google-my-business/page,_N_T_/google-my-business"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/d029ad9c2213ee07772c1de0510888c884bd4f471abffdf435c39a0d29b419c9/$/google-my-business",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/google-my-business/page"
+    },
+    "isFallback": false
+  }
+}

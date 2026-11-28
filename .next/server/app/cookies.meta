@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/cookies/layout,_N_T_/(marketing)/cookies/page,_N_T_/cookies"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/dce98fe310a1da049f222de043746983b21066b718a83c51cbef796549371dd4/$/cookies",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/cookies/page"
+    },
+    "isFallback": false
+  }
+}

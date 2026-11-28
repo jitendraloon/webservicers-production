@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/install/admin": {},
+    "/api/install/check": {},
+    "/api/install/finalize": {},
+    "/api/install/database": {}
+  }
+}

@@ -1,0 +1,25 @@
+# Production dependencies
+node_modules/
+.pnp
+.pnp.*
+
+# Local environment & databases
+.env
+.env*.local
+.env.production
+*.db
+*.db-journal
+
+# Next.js build cache only (KEEP prebuilt server, static, and manifests!)
+.next/cache/
+
+# Debug & temporary files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.zip
+*.tar
+*.tar.gz
+*.bak
+tmp/
+cpanel_error.log

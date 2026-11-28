@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/google-search-ads/layout,_N_T_/(marketing)/google-search-ads/page,_N_T_/google-search-ads"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/a400416e8ce671f163de4022aded7665e1cafa92e6adde4ddb88b4f4453c4eda/$/google-search-ads",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/google-search-ads/page"
+    },
+    "isFallback": false
+  }
+}

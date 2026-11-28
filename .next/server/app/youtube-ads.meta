@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/youtube-ads/layout,_N_T_/(marketing)/youtube-ads/page,_N_T_/youtube-ads"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/785f458616beae73e0631f0f9955993b896070d68b4ff7833a4933bd6c84c529/$/youtube-ads",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/youtube-ads/page"
+    },
+    "isFallback": false
+  }
+}

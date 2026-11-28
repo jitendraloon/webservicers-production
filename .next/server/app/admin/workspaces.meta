@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/workspace-manager",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/workspaces/layout,_N_T_/(admin)/admin/workspaces/page,_N_T_/admin/workspaces"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/bb330fd3af7766ac71d5353cc59c7d4bbe45392f66f9f9702c35f4d1f5c54d0e/$/admin/workspaces",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/workspaces/page"
+    },
+    "isFallback": false
+  }
+}

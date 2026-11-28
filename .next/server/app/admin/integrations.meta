@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/integrations/layout,_N_T_/(admin)/admin/integrations/page,_N_T_/admin/integrations"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/51aad681eb570d6b5cf6a326cb9c01a86f9bb0fe23114a4b17055322787eb605/$/admin/integrations",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/integrations/page"
+    },
+    "isFallback": false
+  }
+}

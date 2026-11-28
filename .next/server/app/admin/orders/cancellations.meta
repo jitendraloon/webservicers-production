@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/orders/layout,_N_T_/(admin)/admin/orders/cancellations/layout,_N_T_/(admin)/admin/orders/cancellations/page,_N_T_/admin/orders/cancellations"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/63e89d0b25d993c5ce618de52adf2f49cde8a3316d57c30eeb092cdf60b6dff3/$/admin/orders/cancellations",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/orders/cancellations/page"
+    },
+    "isFallback": false
+  }
+}

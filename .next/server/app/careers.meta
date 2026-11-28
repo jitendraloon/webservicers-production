@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/careers/layout,_N_T_/(marketing)/careers/page,_N_T_/careers"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/a727df9a6655130c695f4769faaf754bffdfd24c82ffb41e7c2df2db00bf68d7/$/careers",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/careers/page"
+    },
+    "isFallback": false
+  }
+}

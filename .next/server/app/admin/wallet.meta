@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/billing/cash",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/wallet/layout,_N_T_/(admin)/admin/wallet/page,_N_T_/admin/wallet"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/75de1e720fd90e9f15904871535b72e148ff700b4cc7f36ced410e65ed60187b/$/admin/wallet",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/wallet/page"
+    },
+    "isFallback": false
+  }
+}

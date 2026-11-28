@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/dashboard/seo/workspace/rank-tracking",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/seo/layout,_N_T_/(portal)/dashboard/seo/ranks/layout,_N_T_/(portal)/dashboard/seo/ranks/page,_N_T_/dashboard/seo/ranks"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/a9f8e622ad110bff2825b27c8e30cbb3ded226061c81b60953a61648b7a3db44/$/dashboard/seo/ranks",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/seo/ranks/page"
+    },
+    "isFallback": false
+  }
+}

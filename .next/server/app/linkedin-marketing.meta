@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/linkedin-marketing/layout,_N_T_/(marketing)/linkedin-marketing/page,_N_T_/linkedin-marketing"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/beb867c2121f02aff4012e747001b55408851fe00a0842c6e0c882c91a5afc60/$/linkedin-marketing",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/linkedin-marketing/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/maintenance/layout,_N_T_/(admin)/admin/maintenance/updates/layout,_N_T_/(admin)/admin/maintenance/updates/page,_N_T_/admin/maintenance/updates"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/b553f9e73a99ddc34efbb06277e99669b82525f399b01ad311a31ff0bde3c554/$/admin/maintenance/updates",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/maintenance/updates/page"
+    },
+    "isFallback": false
+  }
+}

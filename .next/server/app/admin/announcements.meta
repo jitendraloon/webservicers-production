@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/admin/support/bulk-notifications",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/announcements/layout,_N_T_/(admin)/admin/announcements/page,_N_T_/admin/announcements"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/1b4d520930864691ecca813d51ab71cd5e1f63a2bdfc80cc4ff5c8bff37ff26b/$/admin/announcements",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/announcements/page"
+    },
+    "isFallback": false
+  }
+}

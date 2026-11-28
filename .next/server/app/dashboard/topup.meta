@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/dashboard/add-funds",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/topup/layout,_N_T_/(portal)/dashboard/topup/page,_N_T_/dashboard/topup"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/38d8d979dde8511fc4c10f66ccce86ca22da060c4913b85f6b1418534c3dd0a3/$/dashboard/topup",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/topup/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,521 @@
+@import "tailwindcss";
+
+/* =============================================
+   WebServicers — Unified Design System
+   Three design contexts in one stylesheet:
+   1. Marketing (public frontend) — warm off-white
+   2. Workspace (admin + user dashboard) — CopilotKit-inspired
+   ============================================= */
+
+/* ───── Marketing / Frontend Tokens ───── */
+:root {
+  --ws-background: #fcfbf7;
+  --ws-background-warm: #fffbf5;
+  --ws-foreground: #14232b;
+  --ws-card: #ffffff;
+  --ws-card-foreground: #14232b;
+  --ws-border-color: rgba(221, 211, 197, 0.65);
+  --ws-border-container: #dbdbe5;
+  --ws-text-primary: #14232b;
+  --ws-text-secondary: #535862;
+  --ws-brand-mint: #85ecce;
+  --ws-brand-lilac: #bec2ff;
+  --ws-brand-lilac-deep: #5b62d4;
+  --ws-brand-lilac-soft: #eee6fe;
+  --ws-accent-purple: #6666fc;
+  --ws-accent-blue: #45a2ff;
+  --ws-brand-orange: #ffac4d;
+  --ws-brand-red: #fa5f67;
+  --ws-gray-1000: #181c1f;
+  --ws-dark-surface: #0a091c;
+  --ws-dark-card: #121129;
+  --font-jakarta: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: "Spline Sans Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+@theme inline {
+  --color-background: var(--ws-background);
+  --color-foreground: var(--ws-foreground);
+  --color-brand-mint: #85ecce;
+  --color-brand-lilac: #bec2ff;
+  --color-brand-lilac-deep: #5b62d4;
+  --color-brand-lilac-soft: #eee6fe;
+  --color-accent-purple: #6666fc;
+  --color-accent-blue: #45a2ff;
+  --color-brand-orange: #ffac4d;
+  --color-brand-red: #fa5f67;
+  --color-gray-1000: #181c1f;
+  --color-text-primary: #14232b;
+  --color-text-secondary: #535862;
+  --font-jakarta: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: "Spline Sans Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+/* ───── Workspace (Admin + User Dashboard) Tokens ───── */
+:root[data-cpki-design="workspace"],
+[data-cpki-design="workspace"],
+.app-shell--workspace {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+  /* Light Theme */
+  --sidebar: #ededf5;
+  --sidebar-foreground: #434456;
+  --sidebar-accent: #ffffff;
+  --sidebar-accent-foreground: #4b58b5;
+  --sidebar-border: #d7d8e8;
+
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.255 0.014 285);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.255 0.014 285);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.255 0.014 285);
+
+  --muted: oklch(0.975 0.004 295);
+  --secondary: oklch(0.96 0.008 295);
+  --muted-foreground: oklch(0.505 0.015 290);
+
+  --border: #dedfe9;
+  --input: #c9cbdc;
+
+  --primary: #5966c8;
+  --primary-foreground: #ffffff;
+  --primary-text: #4b58b5;
+  --accent: #eef0ff;
+  --ring: #5966c8;
+
+  --learning: #f1f3ff;
+  --learning-foreground: #4d59b3;
+  --learning-accent: #e0e5ff;
+  --lilac-subtle: #ebe8fb;
+  --lilac-foreground: #645190;
+
+  --success: #087858;
+  --success-subtle: #e8fbf4;
+  --insight-surface: #ecfcf6;
+  --insight-border: #c8ecdf;
+  --insight-foreground: #087858;
+
+  --warning: oklch(0.43 0.075 70);
+  --warning-subtle: oklch(0.966 0.033 80);
+  --destructive: oklch(0.5 0.16 17);
+  --danger-subtle: oklch(0.965 0.021 20);
+
+  --brand-lilac: #7480f1;
+  --brand-mint: #23d5a2;
+  --brand-gradient: linear-gradient(90deg, #7480f1 6.801%, #23d5a2 95.877%);
+
+  --chart-1-stroke: #7480f1;
+  --chart-2-stroke: #099975;
+  --chart-3-stroke: #747dbb;
+  --chart-4-stroke: #b06b24;
+
+  --radius-control: 8px;
+  --radius-surface: 12px;
+  --radius-template: 0.9rem;
+
+  --shadow-xs: 0 1px 2px oklch(0 0 0 / 0.04);
+  --shadow-page: 0 2px 8px oklch(0 0 0 / 0.025);
+  --overlay-shadow: 0 18px 60px oklch(0 0 0 / 0.16);
+}
+
+/* ───── Workspace Dark Theme ───── */
+:root[data-cpki-design="workspace"][data-cpki-theme="dark"],
+[data-cpki-design="workspace"][data-cpki-theme="dark"],
+[data-cpki-theme="dark"] [data-cpki-design="workspace"],
+[data-cpki-theme="dark"] .app-shell--workspace {
+  --sidebar: #191a25;
+  --sidebar-foreground: #c1c3d9;
+  --sidebar-accent: #30344b;
+  --sidebar-accent-foreground: #dadfff;
+  --sidebar-border: #3b3f53;
+
+  --background: oklch(0.185 0.012 285);
+  --foreground: oklch(0.91 0.007 285);
+  --card: oklch(0.205 0.014 285);
+  --card-foreground: oklch(0.91 0.007 285);
+  --popover: oklch(0.235 0.017 285);
+  --popover-foreground: oklch(0.91 0.007 285);
+
+  --secondary: oklch(0.265 0.019 285);
+  --muted: oklch(0.23 0.014 285);
+  --muted-foreground: oklch(0.74 0.02 285);
+
+  --border: #343947;
+  --input: #4b5367;
+
+  --primary: #626daf;
+  --primary-foreground: #ffffff;
+  --primary-text: #b9c1ed;
+  --accent: #30374b;
+  --ring: #a9b6ff;
+
+  --success: #76e6c5;
+  --success-subtle: #183c31;
+  --insight-surface: #19352d;
+  --insight-border: #305247;
+  --insight-foreground: #94e7ca;
+
+  --learning: #222127;
+  --learning-foreground: #c2bfe0;
+  --learning-accent: #39373f;
+  --lilac-subtle: #302a40;
+  --lilac-foreground: #c6b8ed;
+
+  --warning: oklch(0.78 0.11 75);
+  --warning-subtle: oklch(0.28 0.04 75);
+  --destructive: oklch(0.7 0.16 20);
+  --danger-subtle: oklch(0.27 0.05 20);
+
+  --shadow-xs: 0 1px 2px oklch(0 0 0 / 0.2);
+  --shadow-page: 0 2px 10px oklch(0 0 0 / 0.25);
+  --overlay-shadow: 0 18px 60px oklch(0 0 0 / 0.48);
+}
+
+/* ───── Base Reset ───── */
+* {
+  box-sizing: border-box;
+  border-color: var(--border, var(--ws-border-color));
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-jakarta);
+  font-size: 16px;
+  line-height: 1.42;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+code,
+pre,
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ───── Marketing Utilities ───── */
+.bg-copilot-gradient {
+  background-color: #fffbf5;
+  background-image:
+    radial-gradient(ellipse 80% 50% at 15% 8%, rgba(190, 194, 255, 0.34), transparent 60%),
+    radial-gradient(ellipse 65% 45% at 85% 12%, rgba(133, 236, 206, 0.28), transparent 58%),
+    radial-gradient(ellipse 70% 50% at 50% 42%, rgba(238, 230, 254, 0.45), transparent 65%),
+    radial-gradient(ellipse 60% 45% at 80% 78%, rgba(190, 194, 255, 0.22), transparent 60%);
+}
+
+.bg-dark-enterprise {
+  background-color: #0a091c;
+  background-image:
+    radial-gradient(ellipse 60% 50% at 20% 20%, rgba(102, 102, 252, 0.2), transparent 60%),
+    radial-gradient(ellipse 50% 45% at 85% 75%, rgba(133, 236, 206, 0.12), transparent 55%);
+}
+
+.font-jakarta {
+  font-family: var(--font-jakarta);
+}
+
+.font-mono-label {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.display-title {
+  font-family: var(--font-jakarta);
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  line-height: 1.04;
+}
+
+.hero-emphasis {
+  background: linear-gradient(120deg, #5b62d4 0%, #6666fc 55%, #45a2ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.glass-pill {
+  background: rgba(255, 255, 255, 0.62);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  box-shadow: 0 8px 32px rgba(20, 35, 43, 0.06);
+}
+
+.surface-card {
+  background: rgba(255, 255, 255, 0.82);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(221, 211, 197, 0.65);
+  box-shadow: 0 4px 24px rgba(20, 35, 43, 0.04);
+}
+
+.surface-card:hover {
+  border-color: rgba(190, 194, 255, 0.9);
+  box-shadow: 0 12px 36px rgba(91, 98, 212, 0.08);
+}
+
+@keyframes floatSlow {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-6px); }
+}
+
+.animate-float-slow {
+  animation: floatSlow 6s ease-in-out infinite;
+}
+
+/* ───── Workspace App Shell (Admin + Dashboard) ───── */
+.app-shell--workspace {
+  display: grid;
+  grid-template-columns: 244px minmax(0, 1fr);
+  grid-template-rows: 44px minmax(0, 1fr);
+  min-height: 100vh;
+  padding: 10px;
+  background: var(--sidebar);
+}
+
+.workspace-rail {
+  grid-column: 1;
+  grid-row: 1 / span 2;
+  width: 244px;
+  padding: 0 10px 0 0;
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 20px);
+  position: sticky;
+  top: 10px;
+}
+
+.shell-topbar {
+  grid-column: 2;
+  grid-row: 1;
+  height: 44px;
+  padding: 0 14px;
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 12px 12px 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.shell-content-surface {
+  grid-column: 2;
+  grid-row: 2;
+  padding: 24px 30px 36px;
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-top: 0;
+  border-radius: 0 0 12px 12px;
+  box-shadow: var(--shadow-page);
+  min-height: calc(100vh - 64px);
+}
+
+@media (max-width: 1024px) {
+  .app-shell--workspace {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: 44px minmax(0, 1fr);
+    padding: 8px;
+  }
+  .workspace-rail {
+    display: none;
+  }
+  .shell-topbar,
+  .shell-content-surface {
+    grid-column: 1;
+  }
+  .shell-content-surface {
+    padding: 18px 16px 28px;
+  }
+}
+
+/* ───── Component Primitives (CopilotKit-inspired) ───── */
+.cpki-card {
+  background: var(--card);
+  color: var(--card-foreground);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-surface);
+  box-shadow: var(--shadow-xs);
+}
+
+.cpki-card-insight {
+  background: var(--insight-surface);
+  border: 1px solid var(--insight-border);
+  border-radius: var(--radius-surface);
+  box-shadow: var(--shadow-xs);
+}
+
+.cpki-card-learning {
+  background: var(--learning);
+  border: 1px solid var(--learning-accent);
+  border-radius: var(--radius-surface);
+  box-shadow: var(--shadow-xs);
+}
+
+.cpki-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: 36px;
+  padding: 0 12px;
+  border-radius: var(--radius-control);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1;
+  cursor: pointer;
+  transition: background-color 140ms ease, border-color 140ms ease, color 140ms ease, box-shadow 140ms ease;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.cpki-btn-sm {
+  min-height: 32px;
+  padding: 0 10px;
+  font-size: 11px;
+}
+
+.cpki-btn-xs {
+  min-height: 28px;
+  padding: 0 10px;
+  font-size: 11px;
+}
+
+.cpki-btn-primary {
+  background: var(--primary);
+  color: var(--primary-foreground);
+  border: 1px solid var(--primary);
+}
+.cpki-btn-primary:hover {
+  filter: brightness(1.06);
+}
+
+.cpki-btn-outline {
+  background: var(--card);
+  color: var(--foreground);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-xs);
+}
+.cpki-btn-outline:hover {
+  background: var(--muted);
+}
+
+.cpki-btn-quiet {
+  background: var(--secondary);
+  color: var(--foreground);
+  border: 1px solid var(--border);
+}
+.cpki-btn-quiet:hover {
+  background: var(--accent);
+  color: var(--primary-text);
+}
+
+.cpki-btn-ghost {
+  background: transparent;
+  color: var(--muted-foreground);
+  border: 1px solid transparent;
+}
+.cpki-btn-ghost:hover {
+  background: var(--muted);
+  color: var(--foreground);
+}
+
+.cpki-input,
+.cpki-select,
+.cpki-textarea {
+  width: 100%;
+  background: var(--card);
+  color: var(--foreground);
+  border: 1px solid var(--input);
+  border-radius: var(--radius-control);
+  padding: 7px 10px;
+  font-size: 12px;
+  line-height: 1.4;
+  outline: none;
+  transition: border-color 140ms ease, box-shadow 140ms ease;
+}
+
+.cpki-input:focus,
+.cpki-select:focus,
+.cpki-textarea:focus {
+  border-color: var(--ring);
+  box-shadow: 0 0 0 2px color-mix(in oklch, var(--ring) 20%, transparent);
+}
+
+.cpki-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 8px;
+  line-height: 1.3;
+}
+
+.cpki-badge-sm {
+  border-radius: 4px;
+  font-size: 9px;
+  font-weight: 600;
+  padding: 2px 6px;
+}
+
+.cpki-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.cpki-table thead th {
+  background: var(--muted);
+  color: var(--muted-foreground);
+  font-size: 11px;
+  font-weight: 500;
+  text-align: left;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+.cpki-table tbody td {
+  padding: 11px 14px;
+  border-bottom: 1px solid var(--border);
+  color: var(--foreground);
+  vertical-align: middle;
+}
+
+.cpki-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.cpki-table tbody tr:hover td {
+  background: color-mix(in oklch, var(--muted) 55%, transparent);
+}
+
+/* ───── Scrollbar ───── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border, #dedfe9);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted-foreground, #535862);
+}

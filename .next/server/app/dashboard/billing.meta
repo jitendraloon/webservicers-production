@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/dashboard/invoices",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/billing/layout,_N_T_/(portal)/dashboard/billing/page,_N_T_/dashboard/billing"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/a9d5ef2890cac576afd68329042f43821cb7aeba20aa2005e441ead9d80871fa/$/dashboard/billing",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/billing/page"
+    },
+    "isFallback": false
+  }
+}

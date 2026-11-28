@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/legal/layout,_N_T_/(marketing)/legal/page,_N_T_/legal"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/63842765cba7f1b84e53f67ebaef3d7e92f52a65e0e7f7c689e66f65dece4ccd/$/legal",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/legal/page"
+    },
+    "isFallback": false
+  }
+}

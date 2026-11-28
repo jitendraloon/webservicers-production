@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(portal)/layout,_N_T_/(portal)/dashboard/layout,_N_T_/(portal)/dashboard/smm/layout,_N_T_/(portal)/dashboard/smm/new-order/layout,_N_T_/(portal)/dashboard/smm/new-order/page,_N_T_/dashboard/smm/new-order"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/93cab1acfa28806fe36077792ee78b09b5e031281de32a3eeac633dde6b0b545/$/dashboard/smm/new-order",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(portal)/dashboard/smm/new-order/page"
+    },
+    "isFallback": false
+  }
+}

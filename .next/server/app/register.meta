@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(marketing)/layout,_N_T_/(marketing)/register/layout,_N_T_/(marketing)/register/page,_N_T_/register"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/7ad25b08bbc7efb692ca40cceb3f1e5ea4409b69078f2ee32c22dd9c1608d101/$/register",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(marketing)/register/page"
+    },
+    "isFallback": false
+  }
+}

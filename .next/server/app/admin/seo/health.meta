@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(admin)/layout,_N_T_/(admin)/admin/layout,_N_T_/(admin)/admin/seo/layout,_N_T_/(admin)/admin/seo/health/layout,_N_T_/(admin)/admin/seo/health/page,_N_T_/admin/seo/health"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/2225ddd67c132506578bca6cc92271779a7298656bcc0f654b5839798697023a/$/admin/seo/health",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(admin)/admin/seo/health/page"
+    },
+    "isFallback": false
+  }
+}
